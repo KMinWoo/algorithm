@@ -15,6 +15,7 @@ Greedy Algorithm이란 탐욕적 기법으로 항상 가장 큰 이익만을 쫒
 - 탐욕법 문제
   1. 1493 박스채우기  <https://www.acmicpc.net/problem/1493>
   2. 4796 캠핑 <https://www.acmicpc.net/problem/4796>
+  3. 13904 과제 <https://www.acmicpc.net/problem/13904> 
 
 > 출처 백준
 
