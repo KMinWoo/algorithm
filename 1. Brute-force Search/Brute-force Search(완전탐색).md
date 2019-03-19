@@ -14,10 +14,9 @@
 
 
 - 완전 탐색 문제
-  1. 2231 분해합  <https://www.acmicpc.net/problem/2231>
-  2. 2309 일곱난쟁이 <https://www.acmicpc.net/problem/2309>
-  3. 1912 연속합 <https://www.acmicpc.net/problem/1912>
-  4. 1182 부분집합의 합<https://www.acmicpc.net/problem/1182>
+  1. 1182 부분집합의 합<https://www.acmicpc.net/problem/1182>
+  2. 2231 분해합  <https://www.acmicpc.net/problem/2231>
+  3. 2309 일곱난쟁이 <https://www.acmicpc.net/problem/2309>
 
 
 > 출처 백준
