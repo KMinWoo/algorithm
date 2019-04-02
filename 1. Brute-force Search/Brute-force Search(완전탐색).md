@@ -14,9 +14,12 @@
 
 
 - 완전 탐색 문제
-  1. 1182 부분집합의 합<https://www.acmicpc.net/problem/1182>
-  2. 2231 분해합  <https://www.acmicpc.net/problem/2231>
-  3. 2309 일곱난쟁이 <https://www.acmicpc.net/problem/2309>
+  1. 1018 체스판다시칠하기 <https://www.acmicpc.net/problem/1018>
+  2. 1182 부분집합의 합<https://www.acmicpc.net/problem/1182>
+  3. 2231 분해합  <https://www.acmicpc.net/problem/2231>
+  4. 2309 일곱난쟁이 <https://www.acmicpc.net/problem/2309>
+  5. 3085 사탕게임 <https://www.acmicpc.net/problem/3085>
+  6. 10448 유레카이론 <https://www.acmicpc.net/problem/10448>
 
 
 > 출처 백준

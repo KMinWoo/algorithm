@@ -18,8 +18,12 @@ Greedy Algorithm이란 탐욕적 기법으로 항상 가장 큰 이익만을 쫒
   1. 1449 수리공항승   <https://www.acmicpc.net/problem/1449>
   2. 1493 박스채우기  <https://www.acmicpc.net/problem/1493>
   3. 1931 회의실배정  <https://www.acmicpc.net/problem/1931>
-  4. 4796 캠핑 <https://www.acmicpc.net/problem/4796>
-  5. 11047 동전0   <https://www.acmicpc.net/problem/11047>
-  6. 13904 과제 <https://www.acmicpc.net/problem/13904> 
+  4. 1969 DNA <https://www.acmicpc.net/problem/1969>
+  5. 2217 로프 <https://www.acmicpc.net/problem/2217>
+  6. 4796 캠핑 <https://www.acmicpc.net/problem/4796>
+  7. 11000 강의실 배정 <https://www.acmicpc.net/problem/11000>
+  8. 11047 동전0   <https://www.acmicpc.net/problem/11047>
+  9. 13904 과제 <https://www.acmicpc.net/problem/13904> 
 
 > 출처 백준
+
